@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CE203 Assignment2 - Ryan Burdus, 1603670:jar">
+    <output-path>$PROJECT_DIR$/CE203_Assignment2___Ryan_Burdus__1603670_jar</output-path>
+    <root id="archive" name="CE203 Assignment2 - Ryan Burdus, 1603670.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CE203 Assignment2 - Ryan Burdus, 1603670" />
+    </root>
+  </artifact>
+</component>
