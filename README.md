@@ -5,7 +5,7 @@ This game is a recreation of the classic game "Snake" and was **made in IntelliJ
 - Working singleplayer snake game
 - Scores connected to a text file which can be displayed in their own menu
 
-The player will be able to play a normal game of Snake and when the player finishes their playthrough they will then be able to see the socres table and will then be able to choose whether to play again or to close the game and end the program. 
+The player will be able to play a normal game of Snake and when the player finishes their playthrough they will then be able to see the scores table and will then be able to choose whether to play again or to close the game and end the program. 
 
 **All code used within this game has been created by myself (Ryan Burdus) and nobody else.**
 
