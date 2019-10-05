@@ -1,4 +1,4 @@
-# Java-snake-game---University-project
+# Java-snake-game---University-2nd-year-project
 ### Created by Ryan Burdus, November 2017
 A classic Snake game made in Java when at University.
 This game is a recreation of the classic game "Snake" and was **made in IntelliJ with Java** where the main features of the game are: 
